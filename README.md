@@ -10,5 +10,3 @@ Instant Magic is a web application that allows users to plan and organize at a l
 - Costumes rental
 - Rental of clothing accessories
 The application therefore connects amateurs offering services to young engaged couples.
-
-Translated with www.DeepL.com/Translator
